@@ -5,7 +5,7 @@ import styled from 'styled-components';
 
 const FavouritesButton: React.FC = () => {
   return (
-    <Link to="/favorites">
+    <Link to="/#favorites">
       <Button>
       <HeartIcon src={heartIcon} alt='addToFavourites'/>
       </Button>
