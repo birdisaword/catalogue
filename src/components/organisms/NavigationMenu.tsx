@@ -16,7 +16,7 @@ const NavigationMenu: React.FC = () => {
         </LeftDiv>
         <CenterDiv>
           <li>
-            <StyledLink to="//catalogue/#/">HOME</StyledLink>
+            <StyledLink to="/catalogue/#/">HOME</StyledLink>
           </li>
           <li>
             <StyledLink to="#">TOURS</StyledLink>
