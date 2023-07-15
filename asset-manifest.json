@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/catalogue.git/static/css/main.3ad30b04.css",
+    "main.js": "/github.io/catalogue.git/static/js/main.d60a5108.js",
+    "static/media/1.png": "/github.io/catalogue.git/static/media/1.5bdeb0ff46c038be14da.png",
+    "static/media/2.png": "/github.io/catalogue.git/static/media/2.661f7a20dbd3fda33651.png",
+    "static/media/3.png": "/github.io/catalogue.git/static/media/3.30e884a85ba2462ff44c.png",
+    "static/media/Lato-Light.ttf": "/github.io/catalogue.git/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/Lato-Regular.ttf": "/github.io/catalogue.git/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Syne-ExtraBold.ttf": "/github.io/catalogue.git/static/media/Syne-ExtraBold.99cf775aa2fb7d59d2da.ttf",
+    "static/media/Syne-Bold.ttf": "/github.io/catalogue.git/static/media/Syne-Bold.4f7a3ab12ddb09781520.ttf",
+    "static/media/Syne-SemiBold.ttf": "/github.io/catalogue.git/static/media/Syne-SemiBold.a85e1a91be6d9b17d84e.ttf",
+    "static/media/heart.png": "/github.io/catalogue.git/static/media/heart.fdbf91cee79fa783e875.png",
+    "index.html": "/github.io/catalogue.git/index.html",
+    "main.3ad30b04.css.map": "/github.io/catalogue.git/static/css/main.3ad30b04.css.map",
+    "main.d60a5108.js.map": "/github.io/catalogue.git/static/js/main.d60a5108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad30b04.css",
+    "static/js/main.d60a5108.js"
+  ]
+}
