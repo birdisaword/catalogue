@@ -1,4 +1,5 @@
 {
+  "homepage": "http://birdisaword/github.io/catalogue.git",
   "name": "spd-test",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,7 @@
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
     "axios": "^1.4.0",
+    "gh-pages": "^5.0.0",
     "graphql": "^16.7.1",
     "graphql-tag": "^2.12.6",
     "normalize.css": "^8.0.1",
@@ -28,6 +30,8 @@
     "yarn": "^1.22.19"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
