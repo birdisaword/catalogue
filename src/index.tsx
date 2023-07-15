@@ -14,9 +14,7 @@ const client = new ApolloClient({
 ReactDOM.render(
   <ApolloProvider client={client}>
     <RecoilRoot>
-      <Router>
         <App />
-      </Router>
     </RecoilRoot>
   </ApolloProvider>,
   document.getElementById('root')
