@@ -17,11 +17,6 @@ export interface SliderButtonProps {
   rockets: any[];
 }
 
-export interface SliderNavProps {
-  rockets: any[];
-  galleryRef: React.RefObject<HTMLDivElement>;
-}
-
 export const favoriteFlightsState = atom<Flight[]>({
   key: 'favoriteFlightsState',
   default: [],
