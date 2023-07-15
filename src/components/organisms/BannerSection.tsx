@@ -19,7 +19,7 @@ import Image3 from '../../assets/3.png';
   return (
     <Div backgroundImage={images[currentSlide]}>
       <NavigationMenu />
-      <SmallTitle>THE SPACE IS WAITING FOR you</SmallTitle>
+      <SmallTitle>THE SPACE IS WAITING FOR</SmallTitle>
       <BigTitle>YOU</BigTitle>
       <ImgCarousel currentSlide={currentSlide} handleSlideChange={handleSlideChange} />
       <ScrollButton />
