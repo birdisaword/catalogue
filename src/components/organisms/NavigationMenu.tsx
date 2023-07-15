@@ -10,13 +10,13 @@ const NavigationMenu: React.FC = () => {
     <nav>
       <StyledUl>
         <LeftDiv>
-          <Link to="/">
+          <Link to="/catalogue/#/">
             <Logo />
           </Link>
         </LeftDiv>
         <CenterDiv>
           <li>
-            <StyledLink to="/">HOME</StyledLink>
+            <StyledLink to="/catalogue/#/">HOME</StyledLink>
           </li>
           <li>
             <StyledLink to="#">TOURS</StyledLink>
